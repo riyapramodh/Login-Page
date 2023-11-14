@@ -1,0 +1,2 @@
+This is a login page that validates if the credentials entred by the user matches with that in the database. If the credentials match the login is succesful else it shows an error message.
+This code needs to be implemented on GCP (Google Cloud Platform) using my-react-app.
